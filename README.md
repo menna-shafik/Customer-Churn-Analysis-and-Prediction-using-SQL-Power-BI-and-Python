@@ -1,4 +1,6 @@
 # Customer Churn Analysis and Prediction using SQL, Power BI, and Python
+heres the Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiNmFkNDViZjEtOTA5Mi00NmNjLWE0OGQtYzhlZWVkMWE2ZGMzIiwidCI6IjQ1ZDU0MDVhLWIwOTUtNDIwZS1hM2NhLWYzMzk1YWViMzY1NCIsImMiOjF9
 
 ## Overview
 This project aims to analyze customer churn data, identify key factors driving customer attrition, and predict churn risks.  
@@ -39,3 +41,6 @@ I used **SQL** for data cleaning and exploration, **Power BI** for data visualiz
 ---
 
 ## Folder Structure
+![image](https://github.com/user-attachments/assets/7cf60801-e59b-4293-b7e7-6ba7253f96f2)
+![image](https://github.com/user-attachments/assets/05142dd3-f630-4b3d-a5a8-fe6e99264a4b)
+
