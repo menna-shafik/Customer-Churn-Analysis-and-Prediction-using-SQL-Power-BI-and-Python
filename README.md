@@ -40,7 +40,7 @@ I used **SQL** for data cleaning and exploration, **Power BI** for data visualiz
 
 ---
 
-## Folder Structure
+## The Dashboard
 ![image](https://github.com/user-attachments/assets/7cf60801-e59b-4293-b7e7-6ba7253f96f2)
 ![image](https://github.com/user-attachments/assets/05142dd3-f630-4b3d-a5a8-fe6e99264a4b)
 
